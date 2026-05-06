@@ -1,0 +1,14 @@
+{
+    "name": "yourname/number-filter",
+    "description": "Number filtering library",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "NumberFilterLib\\": "src/"
+        }
+    }
+}

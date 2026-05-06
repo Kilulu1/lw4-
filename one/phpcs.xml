@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ruleset name="NumberFilter">
+    <rule ref="PSR12"/>
+    <file>src/</file>
+    <arg name="colors"/>
+    <arg value="p"/>
+</ruleset>
